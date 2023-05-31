@@ -1,2 +1,2 @@
 # GIS-Based-Task-Mangement-System
-This repo contains the resources and methodology of a GIS-based task management system. The task management is conducted into three phases: Text classification, Geo-visualisation of locations on a web map and Object detection through Detectron2.
+This repo contains the resources and methodology of a GIS-based task management system. The task management is conducted into three phases: Text classification, Geo-visualisation of locations on a web map and Object detection through Detectron2. The application is developed as a requirement for the master thesis for MSC in Surveying and Planning at Aalborg University, Denmark. This repository can be used as a tutorial for further development of similar type of applcation. 
